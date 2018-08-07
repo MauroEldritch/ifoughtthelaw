@@ -1,0 +1,6 @@
+dgspr.mjys.buenosaires.gob.ar:443 vulnerable a POODLE
+
+ci.policiadelaciudad.gob.ar:443 vulnerable a DROWN
+
+ci.policiadelaciudad.gob.ar:443 vulnerable a POODLE
+
