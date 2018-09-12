@@ -9,11 +9,11 @@ I really hope you enjoy reading it and discovering this story of corruption, lie
 
 This talk was featured on many conferences:
 
-|#| Date | Conference | Chapter |
-|---|---|---|---|
-|1| ENE-2018 | XTREMESECURITY Brasil | Argentine Federal Police / Ministry of National Security Chapters |
-|2| FEB-2018 | ROADSEC Brasil | Buenos Aires City Police Chapter |
-|3| AGO-2018 | DEFCON Las Vegas | Final Chapter |
+|#| Date | Conference | Chapter | Link |
+|---|---|---|---|---|
+|1| JAN-2018 | XTREMESECURITY Brasil | Argentine Federal Police / Ministry of National Security Chapters | https://youtu.be/pHYb2NRDojw |
+|2| FEB-2018 | ROADSEC Brasil | Buenos Aires City Police Chapter | https://youtu.be/larl83PcPKk |
+|3| AUG-2018 | DEFCON Las Vegas | Final Chapter | TBD |
 
 A heartfelt thanks for everyone who made this possible.
 Specially, the crews from RECON VILLAGE @ DEFCON, XTREMESECURITY and ROADSEC/FLIPSIDE.
