@@ -1,9 +1,9 @@
 # I FOUGHT THE LAW AND THE LAW LOST
 
 This is it. My final chapter of the I fought the law... series.
-We had a lot of fun mocking the "most modern police in the world".
-But everything ends. Currently, this talk was translated to 4 languages:
-Portuguese, Spanish,English and Russian.
+We had a lot of fun researching the vulnerabilities of every Security/Armed Force in Argentina, but everything ends. 
+Currently, this talk was translated to 4 languages:
+Portuguese, Spanish, English and Russian.
 
 I really hope you enjoy reading it and discovering this story of corruption, lies, hackers, and spies.
 
