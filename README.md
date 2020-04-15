@@ -2,10 +2,10 @@
 
 This is it. My final chapter of the I fought the law... series.
 We had a lot of fun mocking the "most modern police in the world".
-But everything ends. Currently, this talk was translated to 3 languages:
-Portuguese, Spanish and now English.
+But everything ends. Currently, this talk was translated to 4 languages:
+Portuguese, Spanish,English and Russian.
 
-I really hope you enjoy reading it and discovering this story of corruption, lies, and spies (I'm looking at you Project X).
+I really hope you enjoy reading it and discovering this story of corruption, lies, hackers, and spies.
 
 This talk was featured on many conferences:
 
