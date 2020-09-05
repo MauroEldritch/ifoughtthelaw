@@ -9,12 +9,14 @@ I really hope you enjoy reading it and discovering this story of corruption, lie
 
 This talk was featured on many conferences:
 
-|#| Date | Conference | Chapter | Link to Video | Link to Slides |
+|#| Date | Conference | Episode | Link to Video | Link to Slides |
 |---|---|---|---|---|---|
-|1| JAN-2018 | XTREMESECURITY Brazil | Argentine Federal Police / Ministry of National Security Chapters | https://youtu.be/pHYb2NRDojw | https://drive.google.com/open?id=1WEZV7sB07QmjHluSlX4lYbdipel4uJ34pMwpxQ6CvA0 |
-|2| FEB-2018 | ROADSEC Brazil | Buenos Aires City Police Chapter | https://youtu.be/larl83PcPKk | https://drive.google.com/open?id=1vTlBefmem4ctRDjCSpYmiP_Fk28qilUA9EQ18jz-RQ0 |
-|3| AUG-2018 | DEF CON Las Vegas | Final Chapter | https://youtu.be/9k8qmH1lVrg |https://docs.google.com/presentation/d/1m84qNUtl1aQjWEdS8ImYcDWqQFCiJ6IHs4Kjb5-F1nY/edit?usp=sharing |
-|4| FEB-2020 | DEF CON DC7831 Russia | Extended Chapter | https://youtu.be/fUORWhNCEvY?t=4470 | https://docs.google.com/presentation/d/16j15J9hVqGGGLPsPHOhnxrjEKqOt9rkidFo_ivtS_-c/edit?usp=sharing |
+|1| JAN-2018 | XTREMESECURITY Brazil | I: Project X / II: Ministry of National Security| https://youtu.be/pHYb2NRDojw | https://drive.google.com/open?id=1WEZV7sB07QmjHluSlX4lYbdipel4uJ34pMwpxQ6CvA0 |
+|2| FEB-2018 | ROADSEC Brazil | III: Buenos Aires Police City | https://youtu.be/larl83PcPKk | https://drive.google.com/open?id=1vTlBefmem4ctRDjCSpYmiP_Fk28qilUA9EQ18jz-RQ0 |
+|3| AUG-2018 | DEF CON Las Vegas | I / II / III | https://youtu.be/9k8qmH1lVrg |https://docs.google.com/presentation/d/1m84qNUtl1aQjWEdS8ImYcDWqQFCiJ6IHs4Kjb5-F1nY/edit?usp=sharing |
+|4| FEB-2020 | DEF CON DC7831 Russia | IV: Argentine Federal Police | https://youtu.be/fUORWhNCEvY?t=4470 | https://docs.google.com/presentation/d/16j15J9hVqGGGLPsPHOhnxrjEKqOt9rkidFo_ivtS_-c/edit?usp=sharing |
+|4| SEP-2020 | DragonJAR Colombia | V: Final Chapter (Compilation) | - | - |
+
 
 A heartfelt thanks for everyone who made this possible.
 Specially, the crews from RECON VILLAGE @ DEF CON, XTREMESECURITY and ROADSEC/FLIPSIDE, and Wire Snark.
